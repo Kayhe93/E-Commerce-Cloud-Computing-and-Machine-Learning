@@ -1,2 +1,2 @@
-# ADS_508_Cloud_Computing_Project
+# Brazilian E-Commerce Cloud Computing
 Pending Abstract, Background, Goals, Non-Goals, and Data Sources
