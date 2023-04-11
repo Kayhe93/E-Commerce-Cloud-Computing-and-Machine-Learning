@@ -4,7 +4,7 @@
 https://github.com/trevsauer/ADS_508_Cloud_Computing_Project
 
 # Authors:
- 1.Trevor Sauerbrey
+ 1. Trevor Sauerbrey
  2.Jiaqi He
  3.Summer Purschke
  
