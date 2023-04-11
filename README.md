@@ -9,13 +9,14 @@ https://github.com/trevsauer/ADS_508_Cloud_Computing_Project
  3. Summer Purschke
  
  # Company Name:
- E-COM 4U
+  E-COM 4U
  
  # Company Size:
- 10 employees
+ 10 employees (5 data engineers, 3 market analysts, 2 business analysts)
 
 # Abstract:
  We have been hired by a Brazilian E-commerce company because they cannot understand the trends between repeat customers and customer satisfaction using regression and sentiment analysis. We also plan to use machine learning to advise them on business-related decisions and provide sales predictions. 
+ 
 
 # Goals:
  1. Predicting customer satisfaction
