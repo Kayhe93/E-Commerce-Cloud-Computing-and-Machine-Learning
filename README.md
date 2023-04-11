@@ -16,8 +16,10 @@ https://github.com/trevsauer/ADS_508_Cloud_Computing_Project
 
 # Abstract:
  We have been hired by a Brazilian E-commerce company because they cannot understand the trends between repeat customers and customer satisfaction using regression and sentiment analysis. We also plan to use machine learning to advise them on business-related decisions and provide sales predictions. 
- 
 
+# Problem Statement
+ The problem facing the Brazilian e-commerce company is that they lack the ability to predict customer satisfaction, customer lifetime value, and future purchases. This issue has been a persistent challenge for the company as it has impacted its ability to make informed business decisions that can enhance customer retention, increase revenue and improve overall performance. The inability to predict customer behavior has led to a series of setbacks for the company, such as increased customer churn, reduced customer loyalty, and declining sales. By hiring E-COM 4U, the company can leverage data analytics to develop targeted strategies to enhance customer satisfaction and retention, optimize its marketing and sales efforts, and improve its inventory management. This will lead to increased revenue, improved customer loyalty, and enhanced overall performance.
+ 
 # Goals:
  1. Predicting customer satisfaction
  2. Predicting customer lifetime value
